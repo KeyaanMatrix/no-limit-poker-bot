@@ -1,0 +1,16 @@
+# competition data and kit (not ours to share)
+*.jsonl
+*.jsonl.gz
+hand-history/
+sdk/
+starter-kit/
+
+# secrets
+.env
+*.key
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
