@@ -1,6 +1,6 @@
 # no-limit-poker-bot
 
-Team **leMinecraft**'s bot for the No Limit 2026 poker bot competition (Pittsburgh regional).
+Team **leMinecraft**'s bot by Keyaan and Janmejay for the No Limit 2026 poker bot competition (Pittsburgh regional).
 
 The game is "Pittsburgh": no-limit hold'em with three hole cards, two boards, and one
 discard after the turn. Each pot is split in half, one half per board. Tables are
